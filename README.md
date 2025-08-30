@@ -25,7 +25,7 @@ WeatherScaleNet
     └── README.md              # This document
 ```
 
-## Datasets
+
 python main.py --config ./config/wind.conf
 
 
